@@ -1,37 +1,37 @@
-# 👋 Hi there, I'm Marta Quiroga
+# Hi, I'm Marta Quiroga
 
 💻 **Full-Stack Developer (React | Node.js | TypeScript)**  
-🧠 Building **[Vetoclock](https://vetoclock-formacion.com)** — AI, DICOM & Dashboard tools for veterinarians  
-🌍 Based in Madrid, Spain  
+🧠 Creator of **[Vetoclock](https://vetoclock-formacion.com)** — an ecosystem of AI, DICOM, and dashboard solutions for veterinary learning and diagnostics.  
+📍 Based in Madrid, Spain  
 
 ---
 
-### 🚀 About Me
-I’m passionate about building intuitive and efficient web applications that combine **AI**, **medical imaging**, and **data visualization**.  
-My background includes creating complete systems — from frontend dashboards and chat interfaces to backend APIs and DICOM servers.
+### 🧩 About Me
+I’m a developer focused on creating **scalable and data-driven applications**, combining clean architecture with intuitive user interfaces.  
+My work bridges **artificial intelligence, cloud infrastructure, and medical imaging technologies** to bring digital innovation to the veterinary field.
 
-Currently, I’m developing:
-- 🧩 **Vetoclock-IA** — An AI chat system using OpenAI + Pinecone for clinical case search.  
-- 🩻 **DICOM Viewer** — Integrated OHIF viewer with Fastify + CouchDB backend.  
-- 📊 **Dashboard Front** — Real-time metrics, filters, and analytics for veterinary telemedicine.
+I currently lead the development of:
+- **Vetoclock-IA** → conversational AI assistant powered by OpenAI + Pinecone embeddings.  
+- **Vetoclock-Viewer** → DICOM web viewer based on OHIF and Fastify DICOMWeb server.  
+- **Vetoclock-Dashboard** → analytics and visualization platform for clinical data and performance metrics.
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🛠️ Technical Stack
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
 **Frontend:** React, Vite, TailwindCSS, Zustand, ApexCharts  
 **Backend:** Node.js, Express, Fastify  
-**Databases:** MongoDB, CouchDB, MySQL  
-**AI & Cloud:** OpenAI API, Pinecone, AWS EC2, Nginx, Docker  
-**Other:** Git, PM2, Netlify, Strapi CMS  
+**Databases:** MongoDB, MySQL, CouchDB  
+**AI & Cloud:** OpenAI API, Pinecone, AWS EC2, Docker, Nginx  
+**Other Tools:** Git, PM2, Netlify, Strapi CMS, Postman  
 
 ---
 
-### 📫 Get in Touch
+### 📬 Contact
 - 📧 [martaqui133@gmail.com](mailto:martaqui133@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/martaquirogacuervo)  
-- 🐙 [GitHub](https://github.com/martaqui)  
+- 🐙 [GitHub](https://github.com/martaqui)
 
 ---
 
-⭐️ *“Technology meets veterinary medicine — building smarter tools for learning and diagnosis.”*
+> *Building digital infrastructure for veterinary medicine — where data, AI, and learning converge.*
