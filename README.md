@@ -36,6 +36,8 @@ MongoDB, MySQL, CouchDB
 #### 🧰 Tools
 Git, PM2, Postman, Netlify, Strapi CMS, Figma, VS Code  
 
+💳 Integrations: Stripe API
+
 ---
 
 ### 💡 What I Do
