@@ -8,8 +8,8 @@
 
 ### 🧩 About Me
 
-I’m a developer focused on creating **scalable, intuitive, and meaningful web applications** that combine **AI, data visualization**, and **medical imaging**.  
-My current work revolves around two main products under the **Vetoclock ecosystem**, both designed and built entirely by me.
+I’m a full-stack developer focused on creating reliable and intuitive web applications that combine AI, data visualization, and medical imaging.
+Currently working on two main products within the Vetoclock ecosystem: an AI-based learning platform and an analytics dashboard for veterinarians.
 
 - 🧠 **Vetoclock Formación** – AI-powered learning platform for veterinarians.  
   Integrates **OpenAI** and **Pinecone** to search similar clinical cases using embeddings, presented through an **interactive chat** and **DICOM viewer** (OHIF/Cornerstone).
