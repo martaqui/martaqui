@@ -1,7 +1,7 @@
-# Hi, I'm Marta Quiroga
+# 👋 Hi, I'm Marta Quiroga
 
 💻 **Full-Stack Developer (React | Node.js | TypeScript)**  
-🧠 Creator of **[Vetoclock](https://vetoclock-formacion.com)** — an ecosystem of AI, DICOM, and dashboard solutions for veterinary learning and diagnostics.  
+🧠 Creator of (https://vetoclock-formacion.com)** — an ecosystem of AI, DICOM, and dashboard solutions for veterinary learning and diagnostics.  
 📍 Based in Madrid, Spain  
 
 ---
