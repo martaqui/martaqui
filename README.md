@@ -1,74 +1,28 @@
-# 👋 Hi there, I'm Marta Quiroga
 
-💻 **Full-Stack Developer (React | Node.js | TypeScript)**  
-🧠 Passionate about building AI-powered and data-driven web applications for the veterinary field.  
-📍 Based in Madrid, Spain  
+Hi, I'm Marta Quiroga
 
----
+Full-Stack Developer based in Madrid, Spain. I build web and mobile applications from end to end — frontend, backend, infrastructure, and everything in between.
 
-### 🧩 About Me
+What I'm working on
 
-I’m a full-stack developer focused on creating reliable and intuitive web applications that combine AI, data visualization, and medical imaging.
-Currently working on two main products within the Vetoclock ecosystem: an AI-based learning platform and an analytics dashboard for veterinarians.
+Badgie — CRM and engagement platform for sports clubs and schools. Coaches use digital badges and medals to recognise student progress, manage groups, and drive retention.
+Built with Next.js 14, React Native (Expo), Supabase, Stripe, Drizzle ORM, and OpenAI. Supports 6 languages and runs on both web and mobile.
+badgie.es
 
-- 🧠 **Vetoclock Formación** – AI-powered learning platform for veterinarians.  
-  Integrates **OpenAI** and **Pinecone** to search similar clinical cases using embeddings, presented through an **interactive chat** and **DICOM viewer** (OHIF/Cornerstone).
+theKlub — Experience and travel platform connecting people with ambassador-hosted sporting trips. Full-stack development across the entire product: booking flows, admin panel, loyalty systems, payment integrations, and CMS.
+Built with Next.js, Node.js, MongoDB/Mongoose, Stripe, and TailwindCSS.
 
-- 📊 **Vetoclock Dashboard** – advanced analytics dashboard for veterinary businesses.  
-  Built with **React, TypeScript, TailwindCSS**, and **ApexCharts**, featuring multi-layer filters (date, specialist, group, urgency) and real-time API integration.
+Previous work
 
----
+Vetoclock — AI-powered learning platform and analytics dashboard for veterinarians. Integrated OpenAI and Pinecone for clinical case search via embeddings, with DICOM medical image visualization.
 
-### 🚀 Technologies I Work With
+Technologies
 
-#### 💬 Languages
-JavaScript (ES6+), TypeScript, HTML5, CSS3  
-
-#### ⚙️ Frameworks & Libraries
-React, Vite, TailwindCSS, Zustand, ApexCharts, Express, Fastify  
-
-#### 🧠 AI & Cloud
-OpenAI API, Pinecone, **AWS EC2 / S3**, Docker, Nginx  
-
-#### 🗄️ Databases
-MongoDB, MySQL, CouchDB  
-
-#### 🧰 Tools
-Git, PM2, Postman, Netlify, Strapi CMS, Figma, VS Code  
-
-💳 Integrations: Stripe API
-
----
-
-### 💡 What I Do
-
-- 🧩 **Develop Full-Stack Applications** using React, Node.js, and TypeScript  
-- 🧠 **Integrate AI systems** with OpenAI and vector databases (Pinecone)  
-- 📈 **Design interactive dashboards** and custom analytics tools  
-- ☁️ **Deploy scalable infrastructures** on AWS with Docker + Nginx  
-- 🤝 **Collaborate and document** projects for maintainable and efficient teamwork  
-
----
-
-### 🌐 Featured Projects
-
-#### 🐾 Vetoclock Formación
-AI-based educational web platform that helps veterinarians learn through real cases.  
-Combines chat conversation, embeddings search (Pinecone), and DICOM medical image visualization.  
-🔗 [vetoclock-formacion.com](https://vetoclock-formacion.com)
-
-#### 📊 Vetoclock Dashboard
-Internal analytics system for monitoring key veterinary metrics.  
-Built with React, TypeScript, and ApexCharts, integrating real-world datasets from Vetoclock-Iberia.  
-🔗 [Vetoclock Dashboard Repository](https://github.com/vetoclock/dashboard-front)
-
----
-
-
-📧 [martaqui133@gmail.com](mailto:martaqui133@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/martaquirogacuervo)  
-🐙 [GitHub](https://github.com/martaqui)
-
----
-
-> *Transforming veterinary data into knowledge — through AI, design, and scalable technology.*
+Languages: TypeScript, JavaScript (ES6+), HTML5, CSS3
+Frontend: React, Next.js, React Native (Expo), TailwindCSS, Radix UI, Framer Motion, Zustand, TanStack Query
+Backend: Node.js, Express, Fastify, Drizzle ORM, Mongoose
+Databases: PostgreSQL (Supabase), MongoDB, MySQL
+AI: OpenAI API, Google GenAI, Vercel AI SDK, Pinecone
+Payments: Stripe
+Cloud & Infrastructure: AWS (EC2, S3), Vercel, Docker, Nginx
+Tools: Git, Supabase, Sanity CMS, Cloudinary, SendGrid, Twilio, Figma
